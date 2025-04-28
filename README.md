@@ -1,6 +1,6 @@
 # VEE - Virtual Electronic Entity
 
-![VEE Desktop Buddy](buddy.png)
+![VEE Desktop Buddy](img/img.jpg)
 
 VEE is an interactive desktop companion application that provides entertainment, helpful notifications, and engagement while you work. It features a customizable desktop buddy that responds to your activities, offers mini-games for breaks, and adds a touch of personality to your computing experience.
 
